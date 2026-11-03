@@ -1,0 +1,6 @@
+{
+  "name": "Clip Studio",
+  "description": "Fast video creation studio with timeline editing, audio mixing, captioning, and instant direct MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
